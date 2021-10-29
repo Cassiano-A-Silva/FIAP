@@ -4,7 +4,7 @@
 
 ##### 📚 *Resumo / Summary*
 
-PT/BR - Desafio dado no segundo modulo da FIAP, usando conceitos básicos de Python (if, else, for, while...) e funções de lista simples o desafio era usar apenas o básico para filtrar e classificar seis restaurantes diferentes por classificação de nota e depois por distância, para classificar em casos onde as notas de classificação são iguais.
+PT/BR - Desafio dado no segundo modulo da FIAP oferecido pelo Ifood, usando conceitos básicos de Python (if, else, for, while...) e funções de lista simples o desafio era usar apenas o básico para filtrar e classificar seis restaurantes diferentes por classificação de nota e depois por distância, para classificar em casos onde as notas de classificação são iguais.
 
 EN - Challenge given in FIAP's second module, using basic Python concepts (if, else, for, while...) and simple list functions the challenge was to use just the basics to filter and sort six different restaurants by rating and then by distance, to classify in cases where the classification scores are equal.
 
